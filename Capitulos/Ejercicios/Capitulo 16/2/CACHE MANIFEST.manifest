@@ -1,0 +1,11 @@
+CACHE MANIFEST 
+CACHE:
+cache.html
+cache.css
+cache.js
+
+NETWORK:
+chat.html
+
+FALLBACK:
+noticias.html sinnoticias.html 

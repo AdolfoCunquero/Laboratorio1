@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+CACHE:
+cache.html
+cache.css
+cache.js
+
+NETWORK:
+chat.html
+
+FALLBACK:
+noticias.html sinnoticias.html
+
+# fecha 2011/08/10 
